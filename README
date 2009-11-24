@@ -1,3 +1,8 @@
 === Morse Code ===
 
-Encode user input to Morse Code representation and flash.
+  Encode user input to Morse Code representation and flash.
+
+=== Xbee Node Discovery ===
+
+  Query for other ZigBee nodes in our vicinity. 
+  Record the number of responses and flash the results.
